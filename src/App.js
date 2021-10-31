@@ -1,6 +1,7 @@
 function App() {
     return (
         <>
+            <p>fagate test</p>
             <form
                 action="/api/v1/upload"
                 enctype="multipart/form-data"
